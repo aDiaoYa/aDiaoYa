@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/06/out-transparent-3.gif?w=560&h=560&crop=1" />aDiao HaHa 🌻
+<img align="center" alt="GIF" height ="200"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-90.gif?w=560&h=320&crop=1" />
+
+## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/06/out-transparent-3.gif?w=560&h=560&crop=1" /> aDiao HaHa 🌻
 
 - 👧 Hello, I'm aDiao, an occasional funny, often dazed college student.
 - 📚 Four years of college, I taught myself programming, now the main front-end.
@@ -8,7 +10,8 @@
 - 💬 Only through focus can you do world-class things, no matter how capable you are.
 - 📫 **How to reach me**: 📧 1822734401@qq.com
 <img align="right" alt="GIF" height ="150"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-132.gif?w=560&h=560&crop=1" />
-## 🌱 I’m currently learning        
+
+## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-71.gif?w=560&h=616&crop=1" /> I’m currently learning        
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
