@@ -29,8 +29,4 @@
 - [bilibili](https://space.bilibili.com/652312752?spm_id_from=333.1007.0.0)
 - [leetcode](https://leetcode.cn/u/tender-keldyshj60/)
 
-  <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDiaoYa&show_icons=true&theme=cobalt)
