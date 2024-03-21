@@ -2,7 +2,7 @@
 
 ## <img height ="50" alt="GIF" src= "https://walfiegif.files.wordpress.com/2023/06/out-transparent-3.gif?w=560&h=560&crop=1" /> aDiao HaHa 🌻
 
-- 👧 Hello, I'm aDiao, an occasional funny, often dazed college student.
+- 👧 Hello, I'm aDiao, an optimistic and cheerful college student who loves life and is always full of curiosity.
   <img align="right" alt="GIF" height ="150"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-48.gif?w=560&h=560&crop=1" />
 - 📚 Four years of college, I taught myself programming, now the main front-end.
 - 🌺 I like hiking, singing, painting, walking at sunset, reading on rainy days...
