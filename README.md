@@ -29,4 +29,4 @@
 - [bilibili](https://space.bilibili.com/652312752?spm_id_from=333.1007.0.0)
 - [leetcode](https://leetcode.cn/u/tender-keldyshj60/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDiaoYa&show_icons=true&theme=dracula)
+![aDiaoYa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aDiaoYa&show_icons=true&theme=dracula)
