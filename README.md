@@ -4,7 +4,7 @@
 
 - 👧 Hello, I'm aDiao, an optimistic and cheerful college student who loves life and is always full of curiosity.
   <img align="right" alt="GIF" height ="150"  src= "https://walfiegif.files.wordpress.com/2023/07/out-transparent-48.gif?w=560&h=560&crop=1" />
-- 📚 Four years of college, I taught myself programming, now the main front-end.
+- 📚 During the four years of college, I taught myself programming, and now I focus on front-end development.
 - 🌺 I like hiking, singing, painting, walking at sunset, reading on rainy days...
 - 💬 Only through focus can you do world-class things, no matter how capable you are.
 - 📫 **How to reach me**: 📧 1822734401@qq.com
